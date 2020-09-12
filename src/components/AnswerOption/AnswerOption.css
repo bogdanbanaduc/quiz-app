@@ -1,0 +1,22 @@
+.answerContainer {
+	background-color: lightgray;
+	padding: 0.2em;
+	margin: 0.5em;
+	border: 1px solid gray;
+	width:  75%;
+	margin-left: 12.5%;
+}
+
+.selected {
+	background-color: lightpink;
+	border: 1px solid pink;
+}
+
+.answerCheckbox {
+	display: grid;
+	grid-template-columns:  2rem 88%;
+}
+
+.answerText {
+	text-align: left;
+}

@@ -1,0 +1,7 @@
+.questionImage {
+	transition: transform 1.1s; 
+}
+
+.questionImage:hover {
+	transform: scale(1.25);
+}
